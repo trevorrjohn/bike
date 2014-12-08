@@ -1,0 +1,7 @@
+# .pairs - configuration for 'git pair'
+# place in project or home directory
+pairs:
+  tj: Trevor John; trevor
+email:
+  prefix: pair
+  domain: john.tj
